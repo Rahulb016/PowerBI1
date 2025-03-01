@@ -1,4 +1,5 @@
 Sales Dashboard - Power BI
+
 This repository contains an interactive Sales Dashboard developed in Power BI to monitor and analyze key sales metrics. The dashboard provides insights into sales performance, pre-sales, growth rate, and budget tracking, enabling data-driven decision-making.
 
 Key Features
